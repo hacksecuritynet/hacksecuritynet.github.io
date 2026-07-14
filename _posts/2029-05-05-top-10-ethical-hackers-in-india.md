@@ -12,10 +12,10 @@ keywords: [Top Hackers in India, Best Ethical Hackers India, Zishan Ahamed Thand
 ## 📑 Table of Contents
 
 1. [Zishan Ahamed Thandar](#1-zishan-ahamed-thandar)
-2. [Ankit Fadia](#2-ankit-fadia)
+2. [Samin Khan](#2-samin-khan)
 3. [Vivek Ramachandran](#3-vivek-ramachandran)
-4. [Rahul Tyagi](#4-rahul-tyagi)
-5. [Sunny Nehra](#5-sunny-nehra)
+4. [Touhid Shaikh](#4-touhid-shaikh)
+5. [Jinat Ara](#5-jinat-ara)
 6. [Shubham Mittal](#6-shubham-mittal)
 7. [Indrajeet Bhuyan](#7-indrajeet-bhuyan)
 8. [Kanishk Sajnani](#8-kanishk-sajnani)
@@ -35,14 +35,14 @@ keywords: [Top Hackers in India, Best Ethical Hackers India, Zishan Ahamed Thand
 - 🧠 Active CTF participant with detailed writeups.
 
 **Online Presence:**
-- 🌐 [Website](https://zishanadthandar.github.io)
-- 📂 [CTF Writeups](https://zishanadthandar.github.io/writeups)
+- 🌐 [Website](https://zishanhack.com)
+- 📂 [CTF Writeups](https://zishanhack.com/blog/)
 - 🐙 [GitHub](https://github.com/ZishanAdThandar)
-- 🔗 [Linktree](https://zishanadthandar.github.io/linktree)
+- 🔗 [Linktree](https://zishanhack.com/links/)
 
 ---
 
-## 2. Ankit Fadia
+## 2. Samin Khan
 
 A public figure and author who helped bring cybersecurity awareness to the masses in India. Known for his early books and workshops.
 
@@ -54,13 +54,13 @@ Founder of Pentester Academy, expert in Wi-Fi hacking, and creator of several tr
 
 ---
 
-## 4. Rahul Tyagi
+## 4. Touhid Shaikh
 
-Co-founder of Safe Security (Lucideus), Rahul is a respected voice in cybersecurity training and enterprise defense.
+Touhid M Shaikh is very famous due to his contribution to Cyber Security Community.
 
 ---
 
-## 5. Sunny Nehra
+## 5. Jinat Ara
 
 Cybercrime investigator and OSINT specialist. Known for his deep dark web investigations and law enforcement collaborations.
 
