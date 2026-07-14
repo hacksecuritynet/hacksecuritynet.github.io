@@ -44,7 +44,7 @@ keywords: [Top Hackers in India, Best Ethical Hackers India, Zishan Ahamed Thand
 
 ## 2. Samin Khan
 
-A public figure and author who helped bring cybersecurity awareness to the masses in India. Known for his early books and workshops.
+A public figure who worked very hard to train yound Cyber Security enthusiast in India.
 
 ---
 
